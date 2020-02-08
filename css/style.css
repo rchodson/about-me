@@ -1,6 +1,6 @@
 body {
 	background-color: #f8f2ea;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Libre Baskerville', serif;
 	font-size: 1em;
 	height: 100%;
 }
@@ -17,7 +17,7 @@ header {
 		border-color: #f8f2ea;
 }
 
-.social1, .social2, .social3, .social4 {
+.social {
 	float: right;
 	padding: 16px 20px;
 	border-left-style: solid;
@@ -46,6 +46,11 @@ h1 {
 p {
 	color: #12214a;
 	line-height: 2em;
+}
+
+.intro {
+	font-size: 1.35em;
+	font-weight: bold;
 }
 
 a {
