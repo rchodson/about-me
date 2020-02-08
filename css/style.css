@@ -62,3 +62,16 @@ a {
 .bio a:hover {
 	background-color: #f4dfcc;
 }
+
+.foot {
+	background-color: #30426c;
+	height: 1.5em;
+}
+
+.foot p {
+	color: #f8f2ea;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: .75em;
+	text-transform: uppercase;
+	text-align: center;
+}
