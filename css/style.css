@@ -26,14 +26,13 @@ header {
 }
 
 .bio {
-	padding: 75px 250px;
+	padding: 75px 250px 15px 250px;
 
 }
 
 .hero {
 	float: left;
-	shape-outside: circle(50%);
-	padding: 0px 45px 5px 0px;
+	padding: 0px 15px 7px 0px;
 }
 
 h1 {
@@ -62,6 +61,13 @@ a {
 
 .bio a:hover {
 	background-color: #f4dfcc;
+}
+
+.endpic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 35px;
 }
 
 .foot {
